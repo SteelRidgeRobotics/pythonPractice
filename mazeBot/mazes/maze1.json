@@ -1,3 +1,4 @@
+print("Hello")
 {
     "size": [5, 5],
     "start": [0, 0],
