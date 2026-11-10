@@ -145,3 +145,4 @@ class Maze:
             for cell in row:
                 print(cell)
             print()
+print("H")
